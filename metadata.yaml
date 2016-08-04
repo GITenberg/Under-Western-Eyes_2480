@@ -1,0 +1,63 @@
+_repo: Under-Western-Eyes_2480
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Jozef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Józef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: "Under Western Eyes (1911) is a novel by Joseph Conrad. The novel takes\
+  \ place in St. Petersburg, Russia, and Geneva, Switzerland, and is viewed as Conrad's\
+  \ response to the themes explored in Crime and Punishment; Conrad was reputed to\
+  \ have detested Dostoevsky. It is also, some say, Conrad's response to his own early\
+  \ life; his father was a famous revolutionary imprisoned by the Russians, but, instead\
+  \ of following in his father's footsteps, at the age of sixteen Conrad left his\
+  \ native land forever. Indeed, while writing Under Western Eyes, Conrad suffered\
+  \ a weeks-long breakdown during which he conversed with the novel's characters in\
+  \ Polish.\nThis novel is considered to be one of Conrad's major works and is close\
+  \ in subject matter to The Secret Agent. It is full of cynicism and conflict about\
+  \ the historical failures of revolutionary movements and ideals. Conrad remarks\
+  \ in this book, as well as others, on the irrationality of life, the opacity of\
+  \ character, the unfairness with which suffering is inflicted upon the innocent\
+  \ and poor, and the careless disregard for the lives of those with whom we share\
+  \ existence.\nThe book's first audience read it after the failed Russian Revolution\
+  \ of 1905. A second audience read it after the Russian Revolutions of 1917, which\
+  \ changed the reader's perception of the author's insight.\nWriting to Edward Garnett\
+  \ in 1911, Conrad said « ...in this book I am concerned with nothing but ideas,\
+  \ to the exclusion of everything else ».\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2480'
+  wikidata: Q3685905
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcsh 'Saint Petersburg (Russia) -- Fiction'
+- !lcsh 'Geneva (Switzerland) -- Fiction'
+- !lcsh 'Terrorism -- Fiction'
+- !lcsh 'Bombings -- Fiction'
+- !lcsh 'College students -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Russia -- History -- 1904-1914 -- Fiction'
+- GITenberg
+title: Under Western Eyes
+url: http://www.gutenberg.org/ebooks/2480
+wikipedia:
+- https://fr.wikipedia.org/wiki/Sous_les_yeux_de_l%27Occident
+- https://ar.wikipedia.org/wiki/%D8%AA%D8%AD%D8%AA_%D8%B9%D9%8A%D9%88%D9%86_%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9
+- https://en.wikisource.org/wiki/Under_Western_Eyes
+- https://en.wikipedia.org/wiki/Under_Western_Eyes
+- https://pl.wikisource.org/wiki/W_oczach_Zachodu
+- https://it.wikipedia.org/wiki/Con_gli_occhi_dell%27occidente
+- https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B5%AC%EC%9D%B8%EC%9D%98_%EB%88%88%EC%9C%BC%EB%A1%9C
+- https://fr.wikisource.org/wiki/Sous_les_yeux_d%E2%80%99Occident
